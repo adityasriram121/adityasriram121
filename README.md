@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityasriram121
-- 👀 I’m interested in creting games for my friends in school and playing chess.
+- 👀 I’m interested in creating games for my friends in school and playing chess.
 - 🌱 I’m currently learning  javascript and sql.
 - 📫 How to reach me aditya.sriram121@gmail.com
 
